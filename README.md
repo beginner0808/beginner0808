@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
-
+## Eterno aprendiz
  <div>
    <a href="https://github.com/beginner0808">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beginner0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +13,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href= target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
